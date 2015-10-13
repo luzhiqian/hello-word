@@ -1,2 +1,4 @@
-# hello-word
+# hello-world
 to learn github
+hi 
+bialabiala
